@@ -3,7 +3,7 @@ class Config(object):
 
     # Get this value from my.telegram.org/apps
     API_ID = 6
-    API_HASH = "eb06d4abfb49dc3eeb1aeb98ae0f581e"
+    API_HASH = "CAACAgUAAxkBAAEHMH9jvFO6TOhMJquk_5hjKN-xO6EMegACjAYAAt3oSFY9Kn8V9NIv1C0E"
 
     CASH_API_KEY = ""  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
@@ -13,10 +13,10 @@ class Config(object):
 
     MONGO_DB_URI = ""  # Get ths value from cloud.mongodb.com
 
-    # Telegraph link of the image which will be shown at start command.
-    START_IMG = "https://te.legra.ph/file/40eb1ed850cdea274693e.jpg"
+    # Telegraph link of the image which will be shown at start commcommandand.
+    START_IMG = "https://te.legra.ph/file/c6883f6ebb2e07242f2b3.png"
 
-    SUPPORT_CHAT = "DevilsHeavenMF"  # Your Telegram support group chat username where your users will go and bother you
+    SUPPORT_CHAT = "anu_pui"  # Your Telegram support group chat username where your users will go and bother you
 
     TOKEN = ""  # Get bot token from @BotFather on Telegram
 
